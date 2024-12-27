@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hi everyone! This is Devaamsh
+This project is based upon React,tailwind css
+first install node.js in your laptop
+then go to terminal and cd to your project
+then type npm i in terminal
+then type npm i -g json-server
+then type npm run dev in one terminal
+open a new terminal and type json-server -w filename.json(db.json in my file)
+then go to localhost:5107
