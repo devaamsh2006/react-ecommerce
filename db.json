@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "c015",
+      "username": "deva",
+      "password": "deva",
+      "email": "devamsh4567@gmail.com"
+    },
+    {
+      "id": "adfb",
+      "username": "chandu",
+      "password": "chandu",
+      "email": "chandu@gmail.com"
+    }
+  ],
+  "wishlist": [],
+  "cart": [],
+  "orders": [
+    {
+      "id": "27",
+      "title": "Sleek Smartwatch with Vibrant Display",
+      "price": 16,
+      "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+      "images": [
+        "https://i.imgur.com/LGk9Jn2.jpeg",
+        "https://i.imgur.com/1ttYWaI.jpeg",
+        "https://i.imgur.com/sPRWnJH.jpeg"
+      ],
+      "creationAt": "2024-12-26T20:08:33.000Z",
+      "updatedAt": "2024-12-26T20:08:33.000Z",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg",
+        "creationAt": "2024-12-26T20:08:33.000Z",
+        "updatedAt": "2024-12-26T20:08:33.000Z"
+      },
+      "userId": "c015",
+      "quantity": 4
+    },
+    {
+      "id": "27",
+      "title": "Sleek Smartwatch with Vibrant Display",
+      "price": 16,
+      "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+      "images": [
+        "https://i.imgur.com/LGk9Jn2.jpeg",
+        "https://i.imgur.com/1ttYWaI.jpeg",
+        "https://i.imgur.com/sPRWnJH.jpeg"
+      ],
+      "creationAt": "2024-12-26T20:08:33.000Z",
+      "updatedAt": "2024-12-26T20:08:33.000Z",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg",
+        "creationAt": "2024-12-26T20:08:33.000Z",
+        "updatedAt": "2024-12-26T20:08:33.000Z"
+      },
+      "userId": "c015"
+    },
+    {
+      "id": "26",
+      "title": "Sleek Mirror Finish Phone Case",
+      "price": 27,
+      "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
+      "images": [
+        "https://i.imgur.com/yb9UQKL.jpeg",
+        "https://i.imgur.com/m2owtQG.jpeg",
+        "https://i.imgur.com/bNiORct.jpeg"
+      ],
+      "creationAt": "2024-12-26T20:08:33.000Z",
+      "updatedAt": "2024-12-26T20:08:33.000Z",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg",
+        "creationAt": "2024-12-26T20:08:33.000Z",
+        "updatedAt": "2024-12-26T20:08:33.000Z"
+      },
+      "userId": "c015",
+      "quantity": 1
+    }
+  ]
+}
